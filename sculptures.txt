@@ -1,0 +1,6 @@
+[
+Art title: Monkey
+Artist name: Madame DeStalone
+Price: 540.0e
+Dimensions: 4x8
+Weight: 98kg
